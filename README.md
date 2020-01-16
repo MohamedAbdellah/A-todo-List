@@ -5,11 +5,11 @@ to test the program you have to register a user firts or to login using existing
 there is two files attached to every user one contain the user information user first name ,user last name ,username(used for
 login) and address each string in a line , for exampel there is a file called User3.txt its contain this infromation in that 
 order :
-
-mohamed                    (<pre> //first name <br/>
-abdellah         //last name <br/>
-mohamed         //user name used for login must be uniqe <br/>
-3              //this user number <br/>
-passw          // password <br/>
+<pre>
+mohamed                      //first name 
+abdellah                    //last name 
+mohamed                    //user name used for login must be uniqe
+3                         //this user number 
+passw                    // password 
 
 and another file called User3ToDList.txt and its contains the tasks of this user list
