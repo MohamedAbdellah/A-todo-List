@@ -6,7 +6,7 @@ there is two files attached to every user one contain the user information user 
 login) and address each string in a line , for exampel there is a file called User3.txt its contain this infromation in that 
 order :
 
-mohamed          //first name <br/>
+mohamed       <------->   //first name <br/>
 abdellah         //last name <br/>
 mohamed         //user name used for login must be uniqe <br/>
 3              //this user number <br/>
