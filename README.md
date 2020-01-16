@@ -12,4 +12,5 @@ mohamed                    //user name used for login must be uniqe
 3                         //this user number 
 passw                    // password 
 
-and another file called User3ToDList.txt and its contains the tasks of this user list
+and another file called User3ToDList.txt and its contains the tasks of this user list.
+naming the files baised on the user number each file called "User"usernumber.txt ,or "User"usernumber"ToDoList".txt.
