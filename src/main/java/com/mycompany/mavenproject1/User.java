@@ -342,9 +342,9 @@ public class User {
             if (currentUser.get(i).getUserName().equals(userName.getText())) {
                 break;
             }
-        }
-
-        for (int j = 0; j < temp; j++) {
+        }        
+        int temp1 = currentUser.get(i).getNoTasks();
+        for (int j = 0; j < temp1; j++) {
             if (currentUser.get(i).toDolist.get(j).equals(searchEntered.getText())) {
                 searchText.setText("Task Found, Task NO " + (j + 1));
                 flag = 1;
